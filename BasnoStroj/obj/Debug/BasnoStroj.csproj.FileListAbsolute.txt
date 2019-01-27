@@ -1,0 +1,10 @@
+D:\VisualStudio\BasnoStroj\BasnoStroj\BasnoStroj\obj\Debug\BasnoStroj.csprojAssemblyReference.cache
+D:\VisualStudio\BasnoStroj\BasnoStroj\BasnoStroj\obj\Debug\BasnoStroj.Form1.resources
+D:\VisualStudio\BasnoStroj\BasnoStroj\BasnoStroj\obj\Debug\BasnoStroj.Properties.Resources.resources
+D:\VisualStudio\BasnoStroj\BasnoStroj\BasnoStroj\obj\Debug\BasnoStroj.csproj.GenerateResource.cache
+D:\VisualStudio\BasnoStroj\BasnoStroj\BasnoStroj\obj\Debug\BasnoStroj.csproj.CoreCompileInputs.cache
+D:\VisualStudio\BasnoStroj\BasnoStroj\BasnoStroj\bin\Debug\BasnoStroj.exe.config
+D:\VisualStudio\BasnoStroj\BasnoStroj\BasnoStroj\bin\Debug\BasnoStroj.exe
+D:\VisualStudio\BasnoStroj\BasnoStroj\BasnoStroj\bin\Debug\BasnoStroj.pdb
+D:\VisualStudio\BasnoStroj\BasnoStroj\BasnoStroj\obj\Debug\BasnoStroj.exe
+D:\VisualStudio\BasnoStroj\BasnoStroj\BasnoStroj\obj\Debug\BasnoStroj.pdb
