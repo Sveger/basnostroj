@@ -1,0 +1,1 @@
+Prvy prototyp basnicko-stroja ktory vobec nedava zmysel, hlavne je ze sa verse rymuju. 
